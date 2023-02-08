@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="192" max="-2" attributes="0"/>
+                          <Component id="titleLabel" min="-2" pref="329" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="66" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="majorLabel" alignment="0" max="32767" attributes="0"/>
+                              <Component id="Country" alignment="0" max="32767" attributes="0"/>
+                              <Component id="CityLabel" alignment="0" max="32767" attributes="0"/>
+                              <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="LastnameLabel" alignment="0" pref="110" max="32767" attributes="0"/>
+                                  <Component id="FirstNameLabel" alignment="0" max="32767" attributes="0"/>
+                                  <Component id="AgeLabel" alignment="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="TelephneLabel" alignment="0" pref="122" max="32767" attributes="0"/>
+                              <Component id="EmailLabel" alignment="0" min="-2" pref="113" max="-2" attributes="0"/>
+                              <Component id="AddressLabel" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="EmailAns" min="-2" pref="113" max="-2" attributes="0"/>
+                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              </Group>
+                              <Component id="LastnameAns" max="32767" attributes="0"/>
+                              <Component id="FirstNameAns" max="32767" attributes="0"/>
+                              <Component id="AgeAns" alignment="0" max="32767" attributes="0"/>
+                              <Component id="TelephneAns" alignment="0" max="32767" attributes="0"/>
+                              <Component id="AddressAns" alignment="0" max="32767" attributes="0"/>
+                              <Component id="CityAns" alignment="0" max="32767" attributes="0"/>
+                              <Component id="CountryAns" alignment="0" max="32767" attributes="0"/>
+                              <Component id="majorAns" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace pref="179" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="15" max="-2" attributes="0"/>
+                  <Component id="titleLabel" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="54" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="FirstNameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="FirstNameAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="LastnameLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="LastnameAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="AgeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="AgeAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="TelephneLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="TelephneAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="EmailLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="EmailAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="AddressLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="AddressAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="CityLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="CityAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="Country" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="CountryAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="majorLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="majorAns" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="261" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="titleLabel">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Arial Rounded MT Bold" size="18" style="1"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="User Profile Details"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="FirstNameLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="First Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="LastnameLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Last Name"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="AgeLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Age"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TelephneLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Telephone Number"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="EmailLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Email"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="AddressLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Address"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="CityLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="City"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Country">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Country"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="majorLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Major"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="FirstNameAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="LastnameAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="AgeAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="TelephneAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="EmailAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="AddressAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="CityAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="CountryAns">
+        </Component>
+        <Component class="javax.swing.JLabel" name="majorAns">
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
